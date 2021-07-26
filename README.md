@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development,Web Development,Software Development,Machine learning,Artificial Intelligence.
 - 🌱 I’m currently learning Full Stack Development,Web Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me 16793harsh@gmail.com
+- 📫 How to reach me harsh16793@gmail.com,16793harsh@gmail.com
 
 <!---
 harshgupta16793/harshgupta16793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
